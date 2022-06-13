@@ -1,5 +1,8 @@
 # :speaker: ePyc-Melody :musical_note:
 
+> This project is in french, and was done during our training of Data Scientist at DataScientest (august - june 2021). <br>
+> The aim was to put into practice the skills acquired during the training.
+
 Ce projet fait partie de la formation  [Datascientest.com](https://datascientest.com/) (cursus Data Scientist d'aout 2021).
 ![Datascientest_logo](/ressources/datascientest768x130.png)
 
@@ -29,6 +32,17 @@ Pour ce faire nous avons testé deux méthodes : le clustering des spécificité
 - ePycMelody_01_modele0-sentiments.ipynb <br>Recherche d'un modèle basé sur les dictionnaires de sentiment et/ou la popularité.<br>(modèle abandonné)
 - ePycMelody_02_modele1-clustering.ipynb <br>Modèle n°1 : Recommandations par clustering sur les caractéristiques musicales.
 - ePycMelody_03_modele2-vectorisation.ipynb <br>Modèle n°2 : Recommandations par vectorisation des hashtags.
+
+## :video_game: Demo streamlit  :video_game:
+Pour tester l'application streamlit :
+```shell
+cd streamlit
+conda create --name epycMelody python=3.9
+conda activate epycMelody
+pip install -r requirements.txt
+streamlit run app.py
+```
+
 ## :computer: Credits :computer:
 
 *	Lionel BERENGER [(LinkedIn)](https://www.linkedin.com/in/lionelberenger/)
