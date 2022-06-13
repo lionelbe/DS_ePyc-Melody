@@ -1,8 +1,10 @@
 # :speaker: ePyc-Melody :musical_note:
 
 > This project is in french, and was done during our training of Data Scientist at DataScientest (august - june 2021). <br>
-> The aim was to put into practice the skills acquired during the training.
+> The aim was to put into practice the skills acquired during the training.<br>
+> We sought to build a system of recommendations based on user data on twitter.
 
+<br>
 Ce projet fait partie de la formation  [Datascientest.com](https://datascientest.com/) (cursus Data Scientist d'aout 2021).
 ![Datascientest_logo](/ressources/datascientest768x130.png)
 
