@@ -25,14 +25,14 @@ Le titre et la description du projet permettaient au moins deux interprétations
 - Description : Prédire si une musique sera plus ou moins appréciée à partir d’analyses et retours Twitter.
 
 La description nous a incité à voir s'il était possible de prédire si un morceau de musique serait plus ou moins apprécié en se basant par exemple sur les  dictionnaires de sentiments présents dans les datasets, la popularité du morceau, ... 
-C'est notre première approche, notre modèle n°1.
+C'est notre première approche, notre [modèle n°0](ePycMelody_01_modele0-sentiments.ipynb).
 
 Le titre "Recommandations musicales" nous a emmené vers une autre approche basée sur un système de recommandation.
-Pour ce faire nous avons testé deux méthodes : le clustering des spécificités musicales (modèle n°2), et la vectorisation des hashtags (modèle n°3).
+Pour ce faire nous avons testé deux méthodes : le clustering des spécificités musicales ([modèle n°1](ePycMelody_02_modele1-clustering.ipynb)), et la vectorisation des hashtags ([modèle n°2](ePycMelody_03_modele2-vectorisation.ipynb)).
 
 ## :bookmark_tabs: Description des fichiers :bookmark_tabs:
 - ePycMelody_00_dataviz.ipynb <br>Dataviz et constitution du fichier de travail df_global.csv
-- ePycMelody_01_modele0-sentiments.ipynb <br>Recherche d'un modèle basé sur les dictionnaires de sentiment et/ou la popularité.<br>(modèle abandonné)
+- ePycMelody_01_modele0-sentiments.ipynb <br>Recherche d'un modèle basé sur les dictionnaires de sentiment et/ou la popularité.<br>(modèle n°0, abandonné)
 - ePycMelody_02_modele1-clustering.ipynb <br>Modèle n°1 : Recommandations par clustering sur les caractéristiques musicales.
 - ePycMelody_03_modele2-vectorisation.ipynb <br>Modèle n°2 : Recommandations par vectorisation des hashtags.
 
