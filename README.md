@@ -1,12 +1,12 @@
 # :speaker: ePyc-Melody :musical_note:
 
-> This project is in french, and was done during our training of Data Scientist at DataScientest (august - june 2021). <br>
+> This project is in french, and was done during our training of Data Scientist at DataScientest (august 2021 - june 2022). <br>
 > The aim was to put into practice the skills acquired during the training.<br>
 > We sought to build a system of recommendations based on user data on twitter.
 
 <br>
-Ce projet fait partie de la formation  [Datascientest.com](https://datascientest.com/) (cursus Data Scientist d'aout 2021).
-![Datascientest_logo](/ressources/datascientest768x130.png)
+Ce projet fait partie de la formation [Datascientest.com](https://datascientest.com/) (cursus Data Scientist d'aout 2021 à juin 2022).<br>
+![Datascientest_logo](ressources/datascientest768x130.png)
 
 
 :warning: Les datasets sont bien trop gros pour être déposés sur github ou sur google collab.<br>
