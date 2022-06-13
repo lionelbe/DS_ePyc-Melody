@@ -1,4 +1,5 @@
-> This project is in french, and was done during our training of Data Scientist at DataScientest (august 2021 - june 2022). <br>
+> This project is in french.<br>
+> It was done during our training of Data Scientist at DataScientest (august 2021 - june 2022). <br>
 > The aim was to put into practice the skills acquired during the training.<br>
 > We sought to build a system of recommendations based on user data on twitter.
 
